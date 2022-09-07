@@ -1,5 +1,5 @@
 # **Iuliia Lysenko**
-SAP consultant analyst
+#### SAP consultant analyst
 ***
 ### *Personal information*
 * Address: Voronezh, Russia
@@ -7,8 +7,6 @@ SAP consultant analyst
 * E-mail: lysenko.yuv@yandex.ru
 * Discord: Iulija#3873
 * [GitHub](https://github.com/Iulija)
-### *Education*
-Plekhanov Russian University of Economics, Applied Information Science in Economics (2010 - 2015)
 ### *About Me*
 I have been working as an SAP consultant analyst for more than 8 years. I also have experience working as an HTML coder. I like to work for results and solve tasks independently. I work well in a team and really want to learn and develop new skills.
 ### *Work experience*
@@ -19,3 +17,14 @@ I have been working as an SAP consultant analyst for more than 8 years. I also h
 * MS Outlook, MS Word, MS Excel, MS Visio
 * ARIS
 * HTML
+### *Code Examples*
+```javascript
+function multiply(a, b){
+ return a * b
+}
+```
+### *Education*
+Plekhanov Russian University of Economics, Applied Information Science in Economics (2010 - 2015)
+### *Languages*
+* Russian - native
+* English - A2 in process
