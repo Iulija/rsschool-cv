@@ -1,7 +1,7 @@
 # **Iuliia Lysenko**
 #### SAP consultant analyst
 ***
-### *Personal information*
+### *Personal Information*
 * Address: Voronezh, Russia
 * Date of birth: 8th March 1992
 * E-mail: lysenko.yuv@yandex.ru
@@ -9,7 +9,7 @@
 * [GitHub](https://github.com/Iulija)
 ### *About Me*
 I have been working as an SAP consultant analyst for more than 8 years. I also have experience working as an HTML coder. I like to work for results and solve tasks independently. I work well in a team and really want to learn and develop new skills.
-### *Work experience*
+### *Work Experience*
 * HTML-layout designer - 1 year
 * SAP consultant-analyst - more than 8 years
 ### *Skills*
