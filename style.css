@@ -10,13 +10,13 @@
     font-family: Roboto;
   }
 .h1 {
-    font-size: 55px;
+    font-size: 50px;
     font-family: Roboto;
     text-align: right;
   }
 .photo {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     object-fit: cover;
     border-radius: 50%;
   }
@@ -43,12 +43,12 @@
   }
 .section {
     display: flex;
-    font-size: 25px;
+    font-size: 20px;
     font-family: Roboto;
     width: 100%;
   }
 .section-title {
-    font-size: 30px;
+    font-size: 25px;
     font-family: Roboto;
   }
 .body {
@@ -76,7 +76,7 @@
     display: block;
 }
 .nav-link:link {
-    font-size: 25px;
+    font-size: 20px;
     font-family: Roboto;
     padding: 0 20px;
     line-height: 20px;
