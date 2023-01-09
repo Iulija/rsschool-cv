@@ -55,9 +55,7 @@ body {
     justify-content: space-between; /*Выравнивание по краям контейнера элементов*/
 }
 
-.header-nav {
 
-}
 
 .header-list {
     display: flex;
